@@ -1,4 +1,4 @@
-# WebBucin-V2
+# WebBucin
 
 Web Bucin V2 khusus buat orang tercinta &amp; tersayang.
 
